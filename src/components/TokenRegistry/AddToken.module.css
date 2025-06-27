@@ -1,0 +1,23 @@
+/* AddTokenButton.module.css */
+.addTokenButton {
+  width: 100%;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-radius: 1.5rem;
+  background: linear-gradient(to right, #06b6d4, #fde047);
+  color: black;
+  font-weight: 600;
+  font-size: 1.4rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.addTokenButton:hover {
+  opacity: 0.9;
+}
+
+.subTitle {
+  font-size: 1.1rem;
+  font-weight: 400;
+}

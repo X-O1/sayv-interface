@@ -11,6 +11,6 @@ body {
   height: 100vh;
   overflow-x: hidden;
   font-family: "Inter", sans-serif;
-  background: #0b1d28; /* or your gradient */
+  background: linear-gradient(to bottom right, #0b1d28, #101d2f, #2e1b11);
   color: white;
 }
