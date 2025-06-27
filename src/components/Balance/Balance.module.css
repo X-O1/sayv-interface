@@ -1,0 +1,19 @@
+/* Balance.module.css */
+
+.container {
+  padding: 2.25rem;
+  border-radius: 1.5rem;
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+.title {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.25rem;
+}
+
+.balance {
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: -0.015625em;
+}
